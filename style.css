@@ -32,6 +32,16 @@ h2{
   color : rgb(255, 255, 255);
 }
 
-.sidebar{
-	top: 50px;
+h3{
+	font-weight: bold;
+	font-size: 24px;
 }
+
+a{
+	font-weight: bold;
+}
+
+#zen-participation{
+	display: inline;
+}
+
