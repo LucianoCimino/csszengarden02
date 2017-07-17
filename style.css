@@ -1,0 +1,37 @@
+*{
+	font-family: Korolev;
+	font-weight: lighter;
+	font-size: 18px;
+	color: #EAEAEA;
+	letter-spacing: 1px;
+}
+body{
+	background-color: #2C3E3F;
+}
+
+h1{
+	  font-family : Korolev;
+  font-weight : bold;
+  font-size : 48px;
+  color : #EAEAEA;
+  color : rgb(234, 234, 234);
+  background-color:  #282828;
+  margin: -8px;
+  text-align: center;
+  padding: 25px 0px;
+ 
+}
+
+h2{
+	font-family : Korolev;
+	font-weight: lighter;
+  font-size : 72px;
+  line-height : 84.66px;
+  letter-spacing : 13.61px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+
+.sidebar{
+	top: 50px;
+}
